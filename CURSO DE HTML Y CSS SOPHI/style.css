@@ -1,0 +1,51 @@
+.imagen-no-comer {
+    width: 400px;
+    height: 400px;
+}
+
+.comer-con-moderacion {
+    width: 400px;
+    height: 400px;
+}
+
+.si-puede-comer {
+    width: 500px;
+    height: 500px;
+}
+
+li {
+    background-color: pink;
+}
+
+p {
+   background-color: rgba(173, 123, 219, 0.77);
+}
+
+.perro {
+    background-color: rgba(227, 202, 253, 0.574);
+}
+
+.perrito {
+    width: 400px;
+    height: 400px;
+}
+
+.huesos {
+    width: 400px;
+    height: 400px;
+}
+
+.mi-elemto {
+    padding: 10px;
+    font-family: sans-serif;
+}
+
+.baño-seco {
+    width: 400px;
+    height: 400px;
+}
+
+.tapetes {
+    width: 400px;
+    height: 400px;
+}
